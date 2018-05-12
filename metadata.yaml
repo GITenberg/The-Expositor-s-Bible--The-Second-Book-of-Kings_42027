@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42027#The-Expositor-s-Bible--The-Second-Book-of-Kings
 gutenberg_issued: '2013-02-05'
 gutenberg_type: Text
 identifiers:
